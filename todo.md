@@ -1,6 +1,0 @@
-- [x] Analisar arquivos auxiliares (Concluído)
-- [x] Elaborar roteiro dos slides (Concluído)
-- [x] Validar roteiro com o usuário (Concluído)
-- [x] Criar apresentação completa em layout clean (Concluído)
-- [x] Revisar e validar apresentação (Concluído)
-- [x] Reportar e enviar arquivos ao usuário (Concluído)

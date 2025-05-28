@@ -1,6 +1,0 @@
-- [ ] Analisar feedback e definir nova linha visual
-- [ ] Pesquisar referências de design clean e elegante
-- [ ] Criar elementos visuais estratégicos para os slides
-- [ ] Atualizar o site com nova identidade visual
-- [ ] Validar visual e funcionamento no site
-- [ ] Reportar e enviar nova versão ao usuário
